@@ -4,7 +4,7 @@ Overview
 ========
 cMQTT is a free software library to implement the MQTT Client.
 
-The functions included in the library have been derived from the MQTT Protocol Reference Guide which can be obtained from [link](https://mqtt.org)
+The functions included in the library have been derived from the MQTT Protocol Reference Guide which can be obtained from [MQTT web](https://mqtt.org)
 
 The license of cMQTT is LGPL v2.1 or later.
 

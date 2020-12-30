@@ -40,6 +40,7 @@ See test/README for a description of each program.
 For a quick test of cMQTT, you can run the following programs in two shells:
 
 ./single-client
+
 ./multi-client
 
 Attention, before run the programs, you need start a MQTT broker, the example programs configure params:
@@ -48,6 +49,7 @@ username: admin
 password: password
 
 host: 127.0.0.1
+
 port: 1883
 
 
